@@ -6,10 +6,20 @@ This is a test file for Remote Repository.
 A bunch of changes will be made.
 
 
+
 making edits to the document-- by abbott price, username priceao
 <this is a test to see how edits work>
 
 (:)) (:() (XD) (:)) (:() (XD)
+
+
+Ji Yung Changes
+Ji Yung Change 2
+Ji Yung Change 3
+Ji Yung Change 4
+Ji Yung Change 5
+Ji Yung Change 6
+
 
 
 This is a test file for Remote Repository.
