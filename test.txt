@@ -1,5 +1,9 @@
 This is a test file for Remote Repository.
 A bunch of changes will be made.
+
+This is the change that was made on the master by Ji Yung 
+while Abbott's working on the last part of the file.
+
 This is a test file for Remote Repository.
 A bunch of changes will be made.
 This is a test file for Remote Repository.
