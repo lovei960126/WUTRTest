@@ -25,7 +25,10 @@ Oatmeal
 Cashews
 Banana
 
-
+Ji Yung's Lunch
+Potato
+Carrots
+Spring Mix that has lots of greens
 
 This is a test file for Remote Repository.
 A bunch of changes will be made.
