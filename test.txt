@@ -27,6 +27,8 @@ A bunch of changes will be made.
 
 I am going to work only in the master branch while Ji works in a new branch
 then we will try to push up to the remote repository.
+she should probably try to push first, I feel like it would be least happy with that.
+
 This is a test file for Remote Repository.
 A bunch of changes will be made.
 This is a test file for Remote Repository.
