@@ -20,6 +20,11 @@ Ji Yung Change 4
 Ji Yung Change 5
 Ji Yung Change 6
 
+Ji Yung's Breakfast
+Oatmeal
+Cashews
+Banana
+
 
 
 This is a test file for Remote Repository.
